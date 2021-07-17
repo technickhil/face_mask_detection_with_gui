@@ -23,9 +23,4 @@
 - scipy==1.4.1
 
 
-### Home Page
-![homepage](https://ibb.co/Bn3GPfD/homepage.png)
-
-
-
 
